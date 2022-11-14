@@ -1,0 +1,9 @@
+[ {"id":10,"name":"Shrikant Kulkarni","specialization":"General Physician","price":350,"appointments":8,"years of experience":25},
+{"id":11,"name":"Pretty Sahu","specialization":"General Physician","price":350,"appointments":4,"years of experience":11},
+{"id":12,"name":"Poonam Naphade","specialization":"Dermatologist","price":350,"appointments":2,"years of experience":10},
+{"id":13,"name":"Sauvik Chakrabarty","specialization":"Dietician","price":350,"appointments":9,"years of experience":9},
+{"id":14,"name":"Paru Sharma","specialization":"Gynacologist","price":350,"appointments":10,"years of experience":15},
+{"id":15,"name":"Sanjay Yadhav","specialization":"psychiatrist","price":350,"appointments":4,"years of experience":11},
+{"id":16,"name":"Kavinesh","specialization":"General Physician","price":350,"appointments":8,"years of experience":5},
+{"id":17,"name":"Amit Prabhu","specialization":"Dentist","price":350,"appointments":6,"years of experience":6}
+]
